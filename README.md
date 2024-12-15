@@ -1,2 +1,2 @@
 # SQLBattleSimulator
-## simple experiment to create a battle simulator in mysql database
+simple experiment to create a battle simulator in mysql database
